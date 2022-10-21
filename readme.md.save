@@ -1,0 +1,14 @@
+<h1>WEB assembly</h1>'
+
+<h2>INSTALL</h2>
+	<ul>
+		<li>sudo apt-get install nasm</li>
+	</ul>
+
+<h2>COMANDOS</h2>
+	<p>Makefile</p>
+        <ul>
+                <li>objdump hello.o</li>
+		<li>objdump -t
+ hello.o</li>
+        </ul>
